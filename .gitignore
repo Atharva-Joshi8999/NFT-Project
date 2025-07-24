@@ -1,0 +1,22 @@
+# Ignore build outputs and cache
+out/
+cache/
+artifacts/
+
+# Node modules (if any JS tools are used)
+node_modules/
+
+# Foundry specific files
+lib/
+broadcast/
+forge.log
+
+# Environment files
+.env
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
